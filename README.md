@@ -11,6 +11,10 @@
 * AISpera Software Engineer (2020.02 ~ 2025.05)
 <br>
 
+## Tech Blog 😊
+https://sign-tilde-dev.tistory.com/
+<br>
+
 ## Skills 🛸   
 [![My Skills](https://skillicons.dev/icons?i=py,go,java,lua,nginx,fastapi,spring,elasticsearch,redis,docker,mysql,mongodb,js,nodejs,react&perline=5&theme=light)](https://skillicons.dev)
 
